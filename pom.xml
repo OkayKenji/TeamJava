@@ -25,6 +25,11 @@
       <artifactId>TeamProlog</artifactId>
       <version>bcf102d74b</version>
     </dependency>
+    <dependency>
+      <groupId>com.github.OkayKenji</groupId>
+      <artifactId>TeamJava</artifactId>
+      <version>Tag</version>
+    </dependency>
   </dependencies>
   <repositories>
     <repository>
