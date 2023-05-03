@@ -7,7 +7,7 @@ Use the following to import this maven project into your project.
 <dependency>
     <groupId>com.github.OkayKenji</groupId>
     <artifactId>TeamJava</artifactId>
-    <version>0a953cc4dd</version>
+    <version>d39532bb68</version>
 </dependency>
 ```
 
