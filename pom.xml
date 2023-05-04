@@ -22,6 +22,11 @@
             <artifactId>TeamProlog</artifactId>
             <version>bcf102d74b</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.mattpollard845</groupId>
+            <artifactId>Week11Python</artifactId>
+            <version>5a0ed3b0e4</version>
+        </dependency>
     </dependencies>
     <repositories>
         <repository>
